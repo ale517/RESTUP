@@ -1,0 +1,8 @@
+---
+applications:
+- name: JavaRESTAPI3
+  memory: 256M
+  host: JavaRESTAAlejandro
+  domain: mybluemix.net
+  services:
+  - mysql3
